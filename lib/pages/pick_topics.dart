@@ -8,8 +8,11 @@ class PickTopics extends StatelessWidget {
     return Scaffold(
       body: Column(
 children: [
-  
-
+  SizedBox(height: 20),
+  Row(
+    children: [
+Image.asset("")
+          ],)
 ],
       ),
     );
